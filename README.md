@@ -1,6 +1,4 @@
-# file-size-directory
+# bash-scripts
 
-Give excecutable permission to the file "chmod +x project.sh" Input a file-directory
-# simple-grade-calculator
+Give excecutable permission to the file "chmod +x 'file-name'" without ''
 
-Give excecutable permission to the file chmod +x project.sh Input your number
